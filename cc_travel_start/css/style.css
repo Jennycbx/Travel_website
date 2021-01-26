@@ -13,6 +13,12 @@
   flex: 33%;
 }
 
+.places {
+  display: flex;
+  flex-flow: row wrap;
+  flex: 33%;
+}
+
 body {
   font-family: "Rubik", sans-serif;
   font-weight: normal;
@@ -30,4 +36,11 @@ body {
   grid-template-areas:
   'popular popular popular'
   'popular popular popular';
+}
+
+#grid-container-places {
+  display: grid;
+  grid-template-areas:
+  'places places places'
+  'places places places'
 }
