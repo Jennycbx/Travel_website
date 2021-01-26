@@ -1,0 +1,30 @@
+.favourite-bg-1 {
+    background-image: url(../img/favourites/indonesia.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    grid-area: favourite;
+  }
+
+  
+  .favourite-bg-2 {
+    background-image: url(../img/favourites/australia.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    grid-area: favourite;
+  }
+  
+  .favourite-bg-3 {
+    background-image: url(../img/favourites/switzerland.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    grid-area: favourite;
+  }
+  
+
+  
