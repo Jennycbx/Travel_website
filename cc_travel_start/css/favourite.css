@@ -2,6 +2,9 @@
     background-image: url(../img/favourites/indonesia.png);
     background-size: 400px;
     background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-family: cursive;
     width: 300px;
     height: 300px;
     grid-area: favourite;
@@ -12,6 +15,9 @@
     background-image: url(../img/favourites/australia.png);
     background-size: 400px;
     background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-family: cursive;
     width: 300px;
     height: 300px;
     grid-area: favourite;
@@ -21,6 +27,9 @@
     background-image: url(../img/favourites/switzerland.png);
     background-size: 400px;
     background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-family: cursive;
     width: 300px;
     height: 300px;
     grid-area: favourite;

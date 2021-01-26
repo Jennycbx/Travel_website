@@ -3,6 +3,7 @@
 
 .favourite {
   display: flex;
+  flex-flow: row wrap;
   flex: 33%;
 }
 
@@ -18,12 +19,15 @@ body {
   font-style: normal;
 }
 
-#grid-container {
+#grid-container-favourite {
   display: grid;
   grid-template-areas:
-  'favourite favourite favourite'
+  'favourite favourite favourite';
+}
+
+#grid-container-popular {
+  display: grid;
+  grid-template-areas:
   'popular popular popular'
   'popular popular popular';
 }
-
-

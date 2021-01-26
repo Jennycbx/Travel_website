@@ -1,53 +1,119 @@
 .popular-bg-1 {
-    background-image: url(../img/favourites/indonesia.png);
+    background-image: url(../img/destination/italy.png);
     background-size: 400px;
     background-repeat: no-repeat;
+    color: white;
     width: 300px;
     height: 300px;
-    grid-area: favourite;
+    grid-area: popular;
   }
   
   .popular-bg-2 {
-    background-image: url(../img/favourites/australia.png);
+    background-image: url(../img/destination/brazil.png);
     background-size: 400px;
     background-repeat: no-repeat;
+    color: white;
     width: 300px;
     height: 300px;
-    grid-area: favourite;
+    grid-area: popular;
   }
   
   .popular-bg-3 {
-    background-image: url(../img/favourites/switzerland.png);
+    background-image: url(../img/destination/america.png);
     background-size: 400px;
     background-repeat: no-repeat;
+    color: white;
     width: 300px;
     height: 300px;
-    grid-area: favourite;
+    grid-area: popular;
   }
 
   .popular-bg-4 {
-    background-image: url(../img/favourites/indonesia.png);
+    background-image: url(../img/destination/nepal.png);
     background-size: 400px;
     background-repeat: no-repeat;
+    color: white;
     width: 300px;
     height: 300px;
-    grid-area: favourite;
+    grid-area: popular;
   }
   
   .popular-bg-5 {
-    background-image: url(../img/favourites/australia.png);
+    background-image: url(../img/destination/maldives.png);
     background-size: 400px;
     background-repeat: no-repeat;
+    color: white;
     width: 300px;
     height: 300px;
-    grid-area: favourite;
+    grid-area: popular;
   }
   
   .popular-bg-6 {
-    background-image: url(../img/favourites/switzerland.png);
+    background-image: url(../img/destination/indonesia.png);
     background-size: 400px;
     background-repeat: no-repeat;
+    color: white;
     width: 300px;
     height: 300px;
-    grid-area: favourite;
+    grid-area: popular;
+  }
+
+  .places-bg-1 {
+    background-image: url(../img/destination/indonesia.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    color: white;
+    width: 300px;
+    height: 300px;
+    grid-area: places;
+  }
+
+  .places-bg-2 {
+    background-image: url(../img/destination/indonesia.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    color: white;
+    width: 300px;
+    height: 300px;
+    grid-area: places;
+  }
+
+  .places-bg-3 {
+    background-image: url(../img/destination/indonesia.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    color: white;
+    width: 300px;
+    height: 300px;
+    grid-area: places;
+  }
+
+  .places-bg-4 {
+    background-image: url(../img/destination/indonesia.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    color: white;
+    width: 300px;
+    height: 300px;
+    grid-area: places;
+  }
+
+  .places-bg-5 {
+    background-image: url(../img/destination/indonesia.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    color: white;
+    width: 300px;
+    height: 300px;
+    grid-area: places;
+  }
+
+  .places-bg-6 {
+    background-image: url(../img/destination/indonesia.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    color: white;
+    width: 300px;
+    height: 300px;
+    grid-area: places;
   }
